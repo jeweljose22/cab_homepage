@@ -1,0 +1,62 @@
+body{
+    background-image: url(https://img.freepik.com/premium-vector/taxi-out-from-phone-booking-online-taxi-service-graphic-design-vector-illustration_620585-19.jpg?w=2000);
+   background-repeat: no-repeat;
+   background-size: 200vh;
+}
+button{
+    position: absolute;
+    /* top: px; */
+    display: flex;
+    justify-content: flex-end;
+    background-color: rgb(219, 219, 39);
+    color:rgb(12, 11, 11) ;
+}   
+.logo{
+    background-color: rgb(70, 172, 212);
+    height: 70px;
+    position: sticky;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: maroon;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 80px;
+    font-weight: bold;
+    font-style: italic;
+    margin-left: auto;
+}
+div{
+    color: rgb(8, 5, 1);
+    left:50px;
+    font-size: xx-large;
+    font-family: cursive;
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+
+}
+.form{
+       display: flex;
+    justify-content: center;
+    left: 50px;
+    margin: auto;
+    font-size: large;
+    font-weight: bolder;
+}
+#submit{
+    display: flex;
+    justify-content: center;;
+}
+label{
+    color: rgb(1, 7, 13);
+}
+#main-nav{
+    display: flex;
+    justify-content: flex-end;
+    text-decoration: none;
+    display:flex;
+    align-items: flex-end;
+    justify-content: right;
+    right:200px;
+
+}
